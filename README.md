@@ -3,7 +3,7 @@ Audio sample generators:
 
 - https://github.com/ryukau/UhhyouWebSynthesizers
 
-VST 3 Plugins Repository:
+VST 3 plugins:
 
 - https://github.com/ryukau/VSTPlugins
 
