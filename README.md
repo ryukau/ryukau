@@ -3,9 +3,10 @@ Audio sample generators:
 
 - https://github.com/ryukau/UhhyouWebSynthesizers
 
-VST 3 plugins:
+Audio plugins:
 
 - https://github.com/ryukau/VSTPlugins
+- https://github.com/ryukau/UhhyouPluginsJuce
 
 Plugin audio demo:
 
