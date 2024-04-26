@@ -11,3 +11,7 @@ Audio plugins:
 Plugin audio demo:
 
 - https://ryukau.bandcamp.com/album/animals
+
+Command line tool:
+
+- https://github.com/ryukau/OfflineLimiter
